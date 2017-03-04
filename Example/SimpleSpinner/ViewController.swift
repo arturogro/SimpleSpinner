@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        simpleSpinnerView.lineWidth = 2
+        simpleSpinnerView.lineWidth = 5
         simpleSpinnerView.tintColor = tintColor
         simpleSpinnerView.startAnimating()
         Timer.scheduledTimer(withTimeInterval: 3, repeats: false) { (timer) in

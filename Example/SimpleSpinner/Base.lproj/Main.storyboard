@@ -30,7 +30,7 @@
                                 </constraints>
                             </view>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.94901960784313721" green="0.94901960784313721" blue="0.94901960784313721" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="QVb-Iu-IKR" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="915-hc-p15"/>
                             <constraint firstItem="QVb-Iu-IKR" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="flR-I5-Dwu"/>
