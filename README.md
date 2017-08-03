@@ -29,5 +29,3 @@ SimpleSpinner is an iOS control written in Swift 3 that displays a spinner simil
 ## Preview
 ![](http://i.giphy.com/xUPGchtnB4ZsTWFcsg.gif)
 
-##License
-MIT
